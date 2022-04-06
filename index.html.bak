@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+<div class="content">
+<div class="box1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis erat tortor, egestas ut commodo in, aliquam id nisl. Quisque semper diam purus, sit amet fermentum tellus auctor id. Maecenas lectus nunc, eleifend in venenatis sit amet, sollicitudin in libero. Mauris elementum ligula magna, feugiat scelerisque ipsum tempor vel. Ut quis augue ac tortor tempor venenatis sit amet at ex. Sed varius odio at nulla vulputate egestas. Fusce vitae tristique odio. Suspendisse eget libero rhoncus, malesuada elit nec, congue velit. In hac habitasse platea dictumst. Pellentesque nec erat non mauris fermentum finibus. Ut blandit tempus justo at cursus. Aenean laoreet sed erat et elementum. Vivamus nec orci nec tortor auctor tempus. Nullam vel nisi ut nunc dictum cursus non vitae libero.
+
+In interdum ante quis arcu ornare, a facilisis felis tempor. Pellentesque fringilla, tortor nec commodo lobortis, enim nisl eleifend leo, ac maximus libero enim facilisis augue. Etiam venenatis varius pharetra. Integer consectetur lobortis iaculis. Nam feugiat tincidunt orci, sit amet cursus mi scelerisque egestas. Curabitur in luctus nulla. Donec at cursus purus. Ut aliquet felis vitae nisl ullamcorper pretium. Proin arcu felis, vulputate at iaculis ut, imperdiet non sem. Suspendisse quis nisi placerat, euismod sem et, porta nunc.
+
+Curabitur diam nibh, euismod nec neque quis, pellentesque consectetur tortor. Pellentesque non libero sed erat pharetra consequat. Curabitur facilisis faucibus elit. Suspendisse mattis, est ac vehicula sodales, leo dolor porttitor sem, eget pretium elit sem quis eros. Sed vestibulum, orci ac vestibulum ullamcorper, nisl lorem efficitur massa, non placerat sem ex non lacus. Integer consequat pharetra fringilla. Nulla nunc odio, vehicula ut dolor sit amet, tristique ultricies purus. Donec hendrerit vel mauris at auctor.
+
+Suspendisse vel felis rutrum, lobortis eros ac, sodales orci. Ut id vulputate nunc, non iaculis velit. Sed lectus justo, efficitur eu nulla eget, congue consequat risus. Aliquam erat volutpat. Integer felis velit, eleifend quis turpis iaculis, cursus posuere nisi. Curabitur a enim velit. Fusce a diam non neque bibendum ornare ut eget dui. Aliquam lobortis venenatis turpis lacinia scelerisque. In vel velit purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+
+Etiam laoreet quam ac metus eleifend eleifend. Vestibulum ac nisl tristique, molestie nisl vitae, suscipit risus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum id lacus luctus, mollis libero eu, iaculis dolor. Nullam volutpat risus non sodales rhoncus. Sed nunc diam, aliquet ut commodo sit amet, pharetra non est. Donec euismod rutrum metus, in faucibus ipsum facilisis gravida. Praesent viverra consectetur justo. Sed commodo, urna id interdum varius, mi justo aliquet augue, eu sodales risus est et erat. Vestibulum elit ante, luctus eu cursus eu, bibendum sit amet sem. Etiam fermentum sed sapien et pharetra. Cras mattis varius metus, a viverra ligula aliquet sed. Aliquam efficitur pretium consectetur. Proin mollis non lorem quis placerat. Nulla hendrerit lacinia velit, nec ullamcorper ipsum aliquam vitae.
+</div>
+</div>
+<div class="fon"></div>
+</body>
+</html>
